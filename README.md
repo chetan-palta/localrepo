@@ -1,2 +1,3 @@
 # myfirst_repo
 This is my first Github Repository. 
+Author - Chetan Palta
