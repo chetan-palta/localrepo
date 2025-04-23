@@ -1,4 +1,4 @@
 # myfirst_repo
 This is my first Github Repository. 
 <br>
-Author - Chetan Palta
+Author - Chetan Palta from GNDEC
