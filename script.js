@@ -1,5 +1,1 @@
-function showSurprise() {
-    const surprise = document.getElementById("surprise");
-    surprise.classList.remove("hidden");
-  }
-  
+<p> JavaScript code to be executed when the page loads </p
